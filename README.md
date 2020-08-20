@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/MexsonFernandes//Django-REST-Framework-User-Registration-Authentication.svg)](http://hits.dwyl.com/MexsonFernandes//Django-REST-Framework-User-Registration-Authentication)
+
 # Django REST Framework - UserRegistration-Authentication
 
 Django app to register and authenticate user using REST API framework.
