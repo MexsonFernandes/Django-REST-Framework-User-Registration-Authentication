@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/MexsonFernandes//Django-REST-Framework-User-Registration-Authentication.svg)](http://hits.dwyl.com/MexsonFernandes//Django-REST-Framework-User-Registration-Authentication)
+[![HitCount](http://hits.dwyl.com/MexsonFernandes/Django-REST-Framework-User-Registration-Authentication.svg)](http://hits.dwyl.com/MexsonFernandes/Django-REST-Framework-User-Registration-Authentication)
 
 # Django REST Framework - UserRegistration-Authentication
 
