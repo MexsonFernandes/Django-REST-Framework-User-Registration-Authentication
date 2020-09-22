@@ -49,7 +49,7 @@ class UserLoginSerializer(serializers.ModelSerializer):
                 raise ValidationError("User credentials are not correct.")
             user = User.objects.get(email=user_id)
         else:
-            user = Users.objects.filter(
+            user = User.objects.filter(
                 Q(username=user_id) &
                 Q(password=password)
             ).distinct()
